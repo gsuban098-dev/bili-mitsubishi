@@ -6,3 +6,5 @@ WhatsApp Image *.jpeg
 
 # Sistem
 .DS_Store
+.vercel
+.env*
