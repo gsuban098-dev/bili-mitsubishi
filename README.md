@@ -2,7 +2,7 @@
 
 Website sales consultant Mitsubishi Motors & FUSO, Bosowa Berlian Motor Kairagi, Manado.
 
-**Website:** https://gsuban098-dev.github.io/bili-mitsubishi/
+**Website:** https://bili-mitsubishi.vercel.app/
 
 ## Mengubah isi website
 
@@ -13,7 +13,7 @@ Website sales consultant Mitsubishi Motors & FUSO, Bosowa Berlian Motor Kairagi,
 | Teks halaman, judul, dan meta SEO | `index.html` |
 | Warna dan tampilan | `assets/css/style.css` |
 
-Setiap perubahan yang di-push ke branch `main` otomatis tayang di GitHub Pages dalam 1–2 menit.
+Setiap perubahan yang di-push ke branch `main` otomatis ter-deploy ke Vercel dalam beberapa detik. Salinan cadangan juga tayang di GitHub Pages: https://gsuban098-dev.github.io/bili-mitsubishi/
 
 ## Catatan
 
