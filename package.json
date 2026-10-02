@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "Website sales consultant Mitsubishi Motors & FUSO, Bosowa Berlian Motor Kairagi, Manado.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsuban098-dev/bili-mitsubishi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsuban098-dev/bili-mitsubishi/issues"
+  },
+  "homepage": "https://github.com/gsuban098-dev/bili-mitsubishi#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}

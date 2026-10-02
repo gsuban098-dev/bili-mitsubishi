@@ -8,3 +8,4 @@ WhatsApp Image *.jpeg
 .DS_Store
 .vercel
 .env*
+node_modules/
